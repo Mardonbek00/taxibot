@@ -13,7 +13,7 @@ ADMIN_IDS = [
 
 # Supabase (Postgres) ulanish manzili — Supabase > Connect > Session pooler.
 # Faqat muhit o'zgaruvchisi orqali bering (kodga yozmang).
-DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres.qpamdyebetgspqymsino:Mardon.1607@aws-0-us-east-2.pooler.supabase.com:5432/postgres")
+DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres.xusamssmmmswtenfyiod:Mardon.1607@aws-0-us-east-1.pooler.supabase.com:5432/postgres")
 
 # Boshlang'ich yo'nalishlar ro'yxati (bot birinchi marta ishga tushganda bazaga yoziladi)
 # Keyinchalik directions jadvaliga to'g'ridan-to'g'ri qo'shish/o'chirish mumkin
