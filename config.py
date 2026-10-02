@@ -23,7 +23,7 @@ DEFAULT_DIRECTIONS = [
 ]
 
 # Bitta zakazda qatnashuvchilar soni uchun variantlar
-PASSENGER_COUNTS = [1, 2, 3, 4]
+PASSENGER_COUNTS = [1, 2, 3, 4, 5]
  
 # Mashinada nechta yo'lovchi sig'adi (haydovchi bir nechta zakazni birlashtirib olishi mumkin)
 CAR_CAPACITY = 4
