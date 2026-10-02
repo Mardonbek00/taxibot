@@ -3,7 +3,7 @@ import os
 # === SOZLAMALAR ===
 
 # BotFather'dan olingan token shu yerga yoziladi (yoki muhit o'zgaruvchisi orqali)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8281987957:AAF332EvEKjINHJHa6VcD4moLCuhqfUyik4")
 
 # Admin(lar)ning Telegram ID raqamlari (bir nechta bo'lishi mumkin)
 # Telegram ID ni bilish uchun @userinfobot ga yozing
@@ -13,7 +13,7 @@ ADMIN_IDS = [
 
 # Supabase (Postgres) ulanish manzili — Supabase > Connect > Session pooler.
 # Faqat muhit o'zgaruvchisi orqali bering (kodga yozmang).
-DATABASE_URL = os.getenv("DATABASE_URL", "")
+DATABASE_URL = os.getenv("DATABASE_URL", "https://wlsfkjyfqxoyteietkba.supabase.co")
 
 # Boshlang'ich yo'nalishlar ro'yxati (bot birinchi marta ishga tushganda bazaga yoziladi)
 # Keyinchalik directions jadvaliga to'g'ridan-to'g'ri qo'shish/o'chirish mumkin
